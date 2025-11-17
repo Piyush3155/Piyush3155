@@ -286,17 +286,23 @@ const piyush: Developer = {
 </td>
 <td width="50%">
 
+<img src="https://streak-stats.demolab.com/?user=Piyush3155&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush3155&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&layout=compact&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush3155&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
 </td>
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush3155&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</div>
 
 <br>
 
