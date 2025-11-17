@@ -1,0 +1,41 @@
+name: Generate GitHub Contribution Snake
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write # allow committing generated files back to this repository
+
+jobs:
+  generate-snake:
+    name: Generate and commit snake animation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution grid snake images
+        uses: Platane/snk@v3
+        with:
+          # Set target github username to repo owner by default, or override
+          github_user_name: ${{ github.repository_owner }}
+          # Generate files in the output folder (these will be committed back to the repo)
+          outputs: |
+            output/github-contribution-grid-snake-default.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake.gif
+
+      - name: Add & commit updated images
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'github-actions[bot]'
+          author_email: '41898282+github-actions[bot]@users.noreply.github.com'
+          message: 'chore: update contribution grid snake animation'
+          add: 'output/**'
