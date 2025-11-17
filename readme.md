@@ -286,7 +286,7 @@ const piyush: Developer = {
 </td>
 <td width="50%">
 
-<img src="https://streak-stats.demolab.com/?user=Piyush3155&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<img src="https://git-streak-stats.vercel.app/?user=Piyush3155&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </td>
 </tr>
