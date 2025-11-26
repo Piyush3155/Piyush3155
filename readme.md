@@ -108,13 +108,13 @@ const piyush: Developer = {
 <br><br>
 
 ### ⚙️ Backend Excellence  
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php,java,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php,c&theme=dark" />
 
 </td>
 <td width="50%" align="center">
 
 ### 🗄️ Database & Storage
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,redis,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,prisma&theme=dark" />
 
 <br><br>
 
@@ -125,9 +125,6 @@ const piyush: Developer = {
 </tr>
 <tr>
 <td colspan="2" align="center">
-
-### 🧰 Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,notion&theme=dark" />
 
 </td>
 </tr>
@@ -141,119 +138,6 @@ const piyush: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table width="100%">
-    <tr>
-        <td width="50%" valign="top">
-            <br>
-            <div align="center">
-                <img src="https://img.shields.io/badge/⭐_Featured-Restaurant_Management-FF6B6B?style=for-the-badge&labelColor=000000" />
-            </div>
-            <br>
-            <div align="center">
-                <img height="40" src="https://skillicons.dev/icons?i=nextjs,typescript,mysql,prisma,tailwind" />
-            </div>
-            <br>
-            <h3 align="center">🍽️ Restaurant Management System</h3>
-            <ul>
-                <li>📋 <strong>Complete POS system</strong> with order management</li>
-                <li>👨‍🍳 Kitchen display system with real-time updates</li>
-                <li>💳 Integrated payment processing</li>
-                <li>📊 Inventory tracking and analytics dashboard</li>
-            </ul>
-            <div align="center">
-                <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
-            </div>
-            <br>
-            <div align="center">
-                <a href="https://github.com/Piyush3155/RMS">
-                    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-                </a>
-            </div>
-        </td>
-        <td width="50%" valign="top">
-            <br>
-            <div align="center">
-                <img src="https://img.shields.io/badge/⭐_Featured-GYM_Management-4ECDC4?style=for-the-badge&labelColor=000000" />
-            </div>
-            <br>
-            <div align="center">
-                <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-                <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-                <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-            </div>
-            <br>
-            <h3 align="center">💪 GYM Management System</h3>
-            <ul>
-                <li>👥 <strong>Member management</strong> with attendance tracking</li>
-                <li>💰 Subscription & billing automation</li>
-                <li>🏋️ Workout plans and progress tracking</li>
-                <li>📱 Mobile-responsive member dashboard</li>
-            </ul>
-            <div align="center">
-                <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-            </div>
-            <br>
-            <div align="center">
-                <a href="https://github.com/Piyush3155/gms">
-                    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-                </a>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" valign="top">
-            <br>
-            <div align="center">
-                <img src="https://img.shields.io/badge/⭐_Featured-Real--time_Chat-9B59B6?style=for-the-badge&labelColor=000000" />
-            </div>
-            <br>
-            <div align="center">
-                <img height="40" src="https://skillicons.dev/icons?i=nextjs,typescript,mysql,prisma,tailwind,express" />
-            </div>
-            <br>
-            <h3 align="center">💬 Real-time Chat Application</h3>
-            <ul>
-                <li>⚡ <strong>WebSocket-based</strong> instant messaging</li>
-                <li>👥 Group chats and private messaging</li>
-                <li>📎 File sharing and media uploads</li>
-                <li>🔔 Push notifications and online status</li>
-            </ul>
-            <div align="center">
-                <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
-            </div>
-            <br>
-            <div align="center">
-                <a href="https://github.com/Piyush3155/chatapplication">
-                    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-                </a>
-            </div>
-        </td>
-        <td width="50%" valign="top">
-            <br>
-            <div align="center">
-                <img src="https://img.shields.io/badge/✨_Explore-More_Projects-FFD700?style=for-the-badge&labelColor=000000" />
-            </div>
-            <br>
-            <div align="center">
-                <img height="140" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-            </div>
-            <br>
-            <p align="center">
-                <strong>🎯 Constantly building and learning!</strong>
-                <br><br>
-                <a href="https://github.com/Piyush3155?tab=repositories">
-                    <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" />
-                </a>
-            </p>
-        </td>
-    </tr>
-</table>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -268,10 +152,6 @@ const piyush: Developer = {
 <img src="https://github-profile-trophy.vercel.app/?username=Piyush3155&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 ## 📊 GitHub Analytics
 
