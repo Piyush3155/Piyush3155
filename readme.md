@@ -14,14 +14,6 @@
   <img src="https://img.shields.io/badge/⚡_Passion-Web_&_Innovation-4ECDC4?style=for-the-badge&labelColor=000000" />
 </div>
 
-<br>
-
-<p>
-    <img src="https://komarev.com/ghpvc/?username=Piyush3155&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/Piyush3155?label=Followers&style=for-the-badge&color=00d9ff" alt="followers" />
-    <img src="https://img.shields.io/github/stars/Piyush3155?label=Stars&style=for-the-badge&color=00d9ff" alt="stars" />
-</p>
-
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
