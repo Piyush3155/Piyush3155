@@ -128,19 +128,19 @@ const piyush: Developer = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush3155&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush3155&theme=tokyonight" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://git-streak-stats.vercel.app/?user=Piyush3155&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Piyush3155&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush3155&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&layout=compact&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyush3155&theme=tokyonight" alt="Top Languages" />
 
 </td>
 <td width="50%">
