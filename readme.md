@@ -152,12 +152,8 @@ const piyush: Developer = {
 </table>
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=Piyush3155&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7&row=2" alt="GitHub Trophies" />
-</div>
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush3155/Piyush3155/main/output/github-contribution-grid-snake-dark.svg" />
