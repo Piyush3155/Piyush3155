@@ -40,8 +40,8 @@ const piyush: Developer = {
   role: "Full Stack Developer",
   location: "India 🇮🇳",
   education: "Computer Science Graduate",
-  passions: ["Web Development", "Open Source"],
-  currentFocus: ["Next.js", "System Design", "Cloud Computing"],
+  passions: ["Web Development"],
+  currentFocus: [ "System Design"],
   lifeGoal: "Building impactful products that solve real-world problems"
 };
 ```
